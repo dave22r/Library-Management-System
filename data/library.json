@@ -1,0 +1,73 @@
+{
+    "books": [
+        {
+            "loanRecord": [],
+            "author": "Alex Michaelides",
+            "genre": "Mystery",
+            "rating": 4.2,
+            "overdueFine": 10,
+            "title": "The Silent Patient",
+            "borrowed": false,
+            "desc": "The Silent Patient is a shocking psychological thriller of a woman's act of violence against her husband and of the therapist obsessed with uncovering her motive.",
+            "daysOverdue": 9
+        },
+        {
+            "loanRecord": [],
+            "author": "Adrian McKinty",
+            "genre": "Mystery",
+            "rating": 3.8,
+            "overdueFine": 10,
+            "title": "The Chain",
+            "borrowed": false,
+            "desc": "When a mother is targeted by a dangerous group of masterminds, she must commit a crime to save her kidnapped daughter -- or risk losing her forever",
+            "daysOverdue": 0
+        },
+        {
+            "loanRecord": [],
+            "author": "Phil Knight",
+            "genre": "Autobiography",
+            "rating": 3.8,
+            "overdueFine": 10,
+            "title": "Shoe Dog: A Memoir by the Creator of Nike",
+            "borrowed": false,
+            "desc": "Shoe Dog is a memoir by Nike co-founder Phil Knight. The memoir chronicles the history of Nike from its founding as Blue Ribbon Sports and its early challenges to its evolution into one of the world's most recognized and profitable companies. It also highlights certain parts of Phil Knight's life.",
+            "daysOverdue": 0
+        },
+        {
+            "loanRecord": [],
+            "author": "Author5",
+            "genre": "Genre5",
+            "rating": 3.8,
+            "overdueFine": 10,
+            "title": "Book5",
+            "borrowed": false,
+            "desc": "Description5",
+            "daysOverdue": 0
+        },
+        {
+            "loanRecord": [],
+            "author": "efewf",
+            "genre": "fefewf",
+            "rating": 0,
+            "overdueFine": 10,
+            "title": "ff",
+            "borrowed": false,
+            "desc": "efwefw",
+            "daysOverdue": 0
+        }
+    ],
+    "borrowers": [
+        {
+            "borrowingHistory": [],
+            "finesAccumulated": 0,
+            "name": "Alex",
+            "id": "00001"
+        },
+        {
+            "borrowingHistory": [],
+            "finesAccumulated": 0,
+            "name": "John",
+            "id": "00002"
+        }
+    ]
+}

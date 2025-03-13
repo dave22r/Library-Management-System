@@ -1,0 +1,32 @@
+{
+    "books": [
+        {
+            "loanRecord": [],
+            "author": "Alex Michaelides",
+            "genre": "Mystery",
+            "rating": 4.2,
+            "overdueFine": 10,
+            "title": "The Silent Patient",
+            "borrowed": false,
+            "desc": "The Silent Patient is a shocking psychological thriller of a woman's act of violence against her husband and of the therapist obsessed with uncovering her motive.",
+            "daysOverdue": 9
+        },
+        {
+            "loanRecord": [],
+            "author": "Adrian McKinty",
+            "genre": "Mystery",
+            "rating": 3.8,
+            "overdueFine": 10,
+            "title": "The Chain",
+            "borrowed": false,
+            "desc": "When a mother is targeted by a dangerous group of masterminds, she must commit a crime to save her kidnapped daughter -- or risk losing her forever",
+            "daysOverdue": 0
+        }
+    ],
+    "borrowers": [{
+        "borrowingHistory": [],
+        "finesAccumulated": 22,
+        "name": "John Doe",
+        "id": "00001"
+    }]
+}
