@@ -1,3 +1,4 @@
+
 # LIBRARY MANAGEMENT SYSTEM
 
 # OVERVIEW
@@ -72,24 +73,7 @@ Borrowers can load the last saved state of the library.
 - As a user, I want to be able to save the state of the library
 - As a user, I want to be able to load the last state of the library
 
-# INSTRUCTIONS FOR GRADER:
-- You can generate the first required action related to the user story "adding multiple Xs to a Y" by clicking "Donate a book" on the GUI and filling in the book's fields (title, author's name, genre & description). This allows you to donate a book to the library.
-- You can generate the second required action related to the user story "adding multiple Xs to a Y" by clicking "Display information on all books", this will display info on all books in the library.
-- You can generate the third required action related to the user story "adding multiple Xs to a Y" by clicking "Borrow a book" on the GUI and entering the title in the text field that appears, this will allow you to "borrow" the book (if it exists) from the library.
-- You can locate my visual component by clicking "Donate a book" on the GUI and filling in the book's fields (title, author's name, genre & description), after a which, a thank you GIF pops up.
-- You can save the state of my application by clicking the save library button on the GUI.
-- You can reload the last saved state of my application by clicking the load library button on the GUI.
 
-# PHASE 4: TASK 2
-Event Log:
-Sun Apr 07 23:37:09 PDT 2024
-Added Book:gvtgv
-
-Sun Apr 07 23:37:28 PDT 2024
-Borrowed Book:Book5
-
-Sun Apr 07 23:37:32 PDT 2024
-Showed information on all books
 
 
 # PHASE 4: TASK 3
@@ -114,3 +98,6 @@ This separation of concerns will ensure that the Library class focuses on high-l
 # REFERENCES
 Workroom.java - Paul Carter (CPSC 210 (Project - PHASE 2))
 AlarmSystem.java (CPSC210 Project Phase 4: Event Logging)
+
+
+# BUILT AS A PART OF CPSC210 (SOFTWARE CONSTRUCTION) IN THE SECOND TERM OF THE WINTER SESSION 2023-2024
